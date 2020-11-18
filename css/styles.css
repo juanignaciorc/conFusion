@@ -1,5 +1,10 @@
 body{
-    margin: 0;
+    margin: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: rgb(84, 7, 141);
+
 }
 .row-header{
     margin:0px auto;
